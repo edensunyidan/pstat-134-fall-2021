@@ -1,4 +1,4 @@
-# PSTAT 134/234 (Fall 2021)
+# PSTAT 134/234 (Winter 2022)
 
 ### Troubleshooting
 * If you run into an error, rename "pstat-134-fall-2021" directory to a different name. Then click on this [https://pstat134.lsit.ucsb.edu/](https://pstat134.lsit.ucsb.edu/) again to re-clone a fresh copy of the latest "pstat-134-fall-2021" repository. 
